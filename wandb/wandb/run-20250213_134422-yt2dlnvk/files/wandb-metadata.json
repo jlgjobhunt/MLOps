@@ -1,0 +1,38 @@
+{
+  "os":  "Linux-6.12.11-1-MANJARO-x86_64-with-glibc2.40",
+  "python":  "CPython 3.9.21",
+  "startedAt":  "2025-02-13T21:44:22.595638Z",
+  "program":  "/home/mephibosheth/Development/MLOps/wandb/wandb.system.metrics.logs.py",
+  "codePath":  "wandb.system.metrics.logs.py",
+  "email":  "j.l.g.jobhunt@gmail.com",
+  "root":  "/home/mephibosheth/Development/MLOps/wandb",
+  "host":  "yaberechiah",
+  "executable":  "/home/mephibosheth/.conda/envs/MLOps/bin/python",
+  "codePathLocal":  "wandb.system.metrics.logs.py",
+  "cpu_count":  4,
+  "cpu_count_logical":  8,
+  "gpu":  "Quadro M1200",
+  "gpu_count":  1,
+  "disk":  {
+    "/":  {
+      "total":  "516417957888",
+      "used":  "385099190272"
+    }
+  },
+  "memory":  {
+    "total":  "67263614976"
+  },
+  "cpu":  {
+    "count":  4,
+    "countLogical":  8
+  },
+  "gpu_nvidia":  [
+    {
+      "name":  "Quadro M1200",
+      "memoryTotal":  "4294967296",
+      "cudaCores":  640,
+      "architecture":  "Maxwell"
+    }
+  ],
+  "cudaVersion":  "12.4"
+}

@@ -1,0 +1,8 @@
+stages:
+  process_data: # Stage name (descriptive)
+    cmd: python dvc.install.test1.py data.csv processed.csv
+    deps: # Dependencies
+      - data.csv
+    outs: # Outputs
+     - processed.csv
+

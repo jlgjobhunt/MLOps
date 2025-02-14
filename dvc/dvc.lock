@@ -1,0 +1,14 @@
+schema: '2.0'
+stages:
+  process_data:
+    cmd: python dvc.install.test1.py data.csv processed.csv
+    deps:
+    - path: data.csv
+      hash: md5
+      md5: c15df8f60a639bf3524486f845cd1459
+      size: 22
+    outs:
+    - path: processed.csv
+      hash: md5
+      md5: 58320a7e0b5007c4b1aaaeeb2ee094ab
+      size: 33

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/mephibosheth/Development/MLOps/mlflow/mlruns/0/521dc8ac8eab4081999ce5949d18853b/artifacts
+end_time: 1739470018987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 521dc8ac8eab4081999ce5949d18853b
+run_name: gifted-dove-281
+run_uuid: 521dc8ac8eab4081999ce5949d18853b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739470016031
+status: 3
+tags: []
+user_id: mephibosheth
