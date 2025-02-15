@@ -1,5 +1,7 @@
 # ./MLOps/matplotlib.install.test0.py
 
+import matplotlib
+matplotlib.use('Agg')  # To avoid Wayland errors.
 import matplotlib.pyplot as plt
 import numpy as np
 
