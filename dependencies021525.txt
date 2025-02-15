@@ -1,0 +1,10 @@
+
+# conda environments:
+#
+MLOps                * /home/mephibosheth/.conda/envs/MLOps
+conda-pytorch          /home/mephibosheth/.conda/envs/conda-pytorch
+conda_global           /home/mephibosheth/.conda/envs/conda_global
+global                 /home/mephibosheth/.conda/envs/global
+neuraxle               /home/mephibosheth/.conda/envs/neuraxle
+base                   /home/mephibosheth/miniconda3
+
