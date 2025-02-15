@@ -18,6 +18,7 @@ To make sure we're on the same page, please confirm if this is an accurate summa
 *   `apache-spark` and `pyspark` (if needed for distributed computing)
 *   `petl` or `dask` (or other ETL libraries as needed)
 *   `selenium` (if needed for browser automation)
+*   `beautifulsoup4` (if needed for web scraping)
 
 
 
@@ -29,7 +30,7 @@ To make sure we're on the same page, please confirm if this is an accurate summa
     *   `imbalanced-learn` (if needed for imbalanced datasets)
     *   `jupyter` (for Jupyter notebooks)
     *   `requests` (if needed for HTTP requests)
-    *   `beautifulsoup4` (if needed for web scraping)
+    
     
     *   `tqdm` (for progress bars)
     *   `pyarrow` (if needed for efficient data structures)
